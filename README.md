@@ -46,7 +46,7 @@ AI/ML & Development
 
 ### Distributed Ride-Share Platform
 
-**Go · Microservices · gRPC · Stripe · Kubernetes · GCP**
+**Go · Microservices · gRPC · Stripe · Kubernetes · MongoDB · GCP**
 
 Building a distributed ride-sharing platform focused on scalable backend architecture and reliable service communication.
 
